@@ -1,6 +1,6 @@
 # Net Distribution Notifier 📩
 
-This Python script automatically checks your Gmail inbox for net distribution advice emails from REITs and InvITs (like IndiGrid, Embassy REIT, Bharat Highways, etc.), extracts relevant details, and sends a summary email with direct links to each message.
+This Python script automatically checks your Gmail inbox for the latest net distribution advice emails from companies like **Embassy REIT**, **IndiGrid**, and others. When new updates are found, it sends a summary email with clickable links to those emails in your inbox.
 
 ---
 
